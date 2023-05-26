@@ -7,6 +7,11 @@ body {
   margin: 0;
   padding: 0;
 }
+.rounded-button {
+  border-radius: 20px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+  /* Additional styling properties */
+  /* Add more styles here to customize the button's appearance */
 
 header {
   color: black;
